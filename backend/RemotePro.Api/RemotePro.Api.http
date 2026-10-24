@@ -1,0 +1,6 @@
+@RemotePro.Api_HostAddress = http://localhost:5150
+
+GET {{RemotePro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
